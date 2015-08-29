@@ -2,6 +2,8 @@
 
 Firefox/Chrome extension and [User Script](http://wiki.greasespot.net/User_script) to help you remove "Adblock warning" on HayHayTV website for better user experience.
 
+![Remove HayHayTV ADS](http://i.imgur.com/WbGMN5B.png)
+
 ## Installation
 
 You can install pre-built version for [Google Chrome](https://goo.gl/GNslbJ) or [Mozilla Firefox](https://github.com/J2TeaM/hayhaytv/releases/tag/v1.0.1) browser.
