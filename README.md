@@ -24,7 +24,7 @@ Then, just install [hayhaytv.user.js](https://github.com/J2TeaM/hayhaytv/blob/ma
 
 ## Authors
 
-@J2TeaM - http://junookyo.blogspot.com/
+[@J2TeaM](https://github.com/J2TeaM) - http://junookyo.blogspot.com/
 
 ## License
 
