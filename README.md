@@ -16,6 +16,8 @@ If you want to use **User Script**, you will need to install one of these extens
 
 Then, just install [hayhaytv.user.js](https://github.com/J2TeaM/hayhaytv/blob/master/hayhaytv.user.js)
 
+**Note:** Watch [this video](https://www.youtube.com/watch?v=e21YbU3fxsg) if you don't know how to install User Script.
+
 ## Contributing
 
 1. Fork it!
