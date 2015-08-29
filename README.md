@@ -4,7 +4,7 @@ Firefox/Chrome extension and [User Script](http://wiki.greasespot.net/User_scrip
 
 ## Installation
 
-You can install pre-built version for [Google Chrome](https://goo.gl/GNslbJ) or [Mozilla Firefox](#) browser.
+You can install pre-built version for [Google Chrome](https://goo.gl/GNslbJ) or [Mozilla Firefox](https://github.com/J2TeaM/hayhaytv/releases/tag/v1.0.1) browser.
 
 If you want to use **User Script**, you will need to install one of these extensions bellow:
 
@@ -24,7 +24,7 @@ Then, just install [hayhaytv.user.js](https://github.com/J2TeaM/hayhaytv/blob/ma
 
 ## Authors
 
-[@J2TeaM](https://github.com/J2TeaM) - http://junookyo.blogspot.com/
+@J2TeaM - http://junookyo.blogspot.com/
 
 ## License
 
